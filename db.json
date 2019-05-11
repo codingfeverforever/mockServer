@@ -55,6 +55,90 @@
           "currencyCode": "USD"
         }
       ]
+    },
+    {
+      "id": "12345",
+      "stayDate": "2019-02-26",
+      "recommendation": [
+        {
+          "los": 1,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        },
+        {
+          "los": 2,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        }
+      ]
+    },
+{
+      "id": "12345",
+      "stayDate": "2019-02-26",
+      "recommendation": [
+        {
+          "los": 1,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        },
+        {
+          "los": 2,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        }
+      ]
+    },
+{
+      "id": "12345",
+      "stayDate": "2019-02-26",
+      "recommendation": [
+        {
+          "los": 1,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        },
+        {
+          "los": 2,
+          "opaqueRate": 36.55,
+          "opaqueVol": 4.1,
+          "recommendedRate": 38.5,
+          "retailRateMOD": 44.0,
+          "roomNightOpportunity": 5.0,
+          "winnerRate": 38.7,
+          "winnerVol": 5.4,
+          "currencyCode": "USD"
+        }
+      ]
     }
   ]
 }
